@@ -1,0 +1,30 @@
+{
+  "name": "@tools/gulp-jsonmin",
+  "version": "1.0.0",
+  "description": "压缩json内容",
+  "contributors": [
+    "Luoying <luoying@fxiaoke.com>"
+  ],
+  "homepage": "http://registry-npm.firstshare.cn/",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "pre-commit": [
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.firstshare.cn/fe-tools/gulp-jsonmin.git"
+  },
+  "keywords": [
+    "minify",
+    "json",
+    "gulp"
+  ],
+  "author": "luoying",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.1.3"
+  }
+}
