@@ -1,6 +1,6 @@
 {
   "name": "@tools/gulp-jsonmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "压缩json内容",
   "contributors": [
     "Luoying <luoying@fxiaoke.com>"
@@ -26,5 +26,8 @@
   "license": "ISC",
   "devDependencies": {
     "pre-commit": "^1.1.3"
+  },
+  "dependencies": {
+    "through2": "^2.0.1"
   }
 }
