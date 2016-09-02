@@ -1,6 +1,6 @@
 {
   "name": "@tools/gulp-jsonmin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "压缩json内容",
   "contributors": [
     "Luoying <luoying@fxiaoke.com>"
